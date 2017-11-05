@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">StayFiT</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="facebook_app_id">1698392957128651</string>
+    <string-array name="genders">
+        <item>Male</item>
+        <item>Female</item>
+    </string-array>
+
+    <string-array name="fitmodelMale">
+        <item>Lazar Angelov</item>
+        <item>Sergi Constance</item>
+        <item>Dwayne Johnson</item>
+        <item>Simeon Panda</item>
+        <item>Marc Fit</item>
+        <item>Rob Riches</item>
+    </string-array>
+
+    <string-array name="fitmodelFemale">
+        <item>Kayla Itsines</item>
+        <item>Kaisa Keranen</item>
+        <item>Emily Skye</item>
+        <item>Jillian Michaels</item>
+        <item>Jeanette Jenkins</item>
+        <item>Jennifer Widerstrom</item>
+    </string-array>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_workout">WorkoutActivity</string>
+</resources>
