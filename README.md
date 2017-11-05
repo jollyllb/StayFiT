@@ -1,11 +1,13 @@
 Android StayFit App
 ~~~~~~~~~~~~~~~~~~~~
 
-StayFit is a fitness related application which lets users to focus on fitness and maintain food balance. It basically provides information about food and workout regimes to the user depending upon the BMI category the user falls in.
+StayFit is a fitness related application which lets users to focus on fitness and maintain food balance. 
+It basically provides information about food and workout regimes to the user depending upon the BMI category the user falls in.
 
 StayFit also has a virtual trainer which notifies them about what food to have at what time along with workout routines.
 
-StayFit also lets users to find Physical trainers using the Google Places API integrated in the application. Users can also share their progress in Facebook via the Facebook Share which is integrated using the Facebook SDK.
+StayFit also lets users to find Physical trainers using the Google Places API integrated in the application. 
+Users can also share their progress in Facebook via the Facebook Share which is integrated using the Facebook SDK.
 
 Features:
 
